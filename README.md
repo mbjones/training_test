@@ -6,3 +6,5 @@ This is a place to practice git and R and markdown editing online. It should be:
 - Fast
 - Easy
 - Cheap
+
+Pick only two. Local RStudio can make changes too.
