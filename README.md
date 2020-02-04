@@ -11,3 +11,7 @@ This is a place to practice git and R and markdown editing online. It should be:
 
 Pick only two. Local RStudio can make changes too.
 Jeanette
+
+# Runtime details
+
+This is how you run the code.
