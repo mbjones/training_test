@@ -5,7 +5,7 @@ This is a place to practice git and R and markdown editing online. It should be:
 
 ## Iron Triangle (Matt)
 
-- Faster Jeanette
+- Fasterest Jeanette and Matt
 - Good
 - Cheap
 
