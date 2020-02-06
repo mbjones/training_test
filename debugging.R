@@ -4,15 +4,12 @@ a <- 10
 b <- 50
 
 simplesum <- function(x, y) {
-    y = y + 10
-    z = y + 20
-    a = sum(x, z)
+    a = sum(x, y)
     return(a)
 }
 
-listofsums <- function(n) {
-    m <- n*23
-    o <- simplesum(m, 23)
+sumwithnext <- function(n) {
+    o <- simplesum(n, n+1)
     return(o)
 }
 
